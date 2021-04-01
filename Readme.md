@@ -1,4 +1,4 @@
-## React Boilerplate - Webpack Version
+## React Boilerplate - Using Webpack, Babel and Sass
 
 Clone this repository inside project folder execute
 
@@ -6,7 +6,7 @@ Clone this repository inside project folder execute
 yarn install
 ```
 
-### Developement Run
+### Development Run
 
 ```bash
 yarn dev
