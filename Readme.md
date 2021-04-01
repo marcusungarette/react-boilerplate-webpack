@@ -6,7 +6,7 @@ Clone this repository inside project folder execute
 yarn install
 ```
 
-## Developement Run
+### Developement Run
 
 ```bash
 yarn dev
